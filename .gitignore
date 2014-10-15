@@ -1,0 +1,8 @@
+*~
+.*~
+*.*~
+node_modules
+.logs
+clean.sh
+tarme.sh
+*.patch
